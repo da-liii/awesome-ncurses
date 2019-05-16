@@ -6,6 +6,9 @@
 ## Utilities
 + [ncdu](https://dev.yorhel.nl/ncdu): NCurses Disk Usage
 
+## Editors
++ [hexedit](http://rigaux.org/hexedit.html): View and edit files in hexadecimal or in ASCII
+
 ## Games
 + [moon-buggy](https://www.seehuhn.de/pages/moon-buggy): drive some car across the moon
 + [bastet](http://fph.altervista.org/prog/bastet.shtml): ncurses Tetris clone with a bastard algorithm
