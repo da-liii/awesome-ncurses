@@ -2,3 +2,6 @@
 
 ## Language Bindings
 + [ncurses-rs](https://github.com/jeaye/ncurses-rs): A low-level ncurses wrapper for Rust
+
+## Games
++ [moon-buggy](https://github.com/seehuhn/moon-buggy): drive some car across the moon
