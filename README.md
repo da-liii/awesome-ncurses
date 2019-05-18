@@ -5,6 +5,7 @@
 
 ## Utilities
 + [ncdu](https://dev.yorhel.nl/ncdu): NCurses Disk Usage
++ [ranger](https://ranger.github.io/): A VIM-inspired filemanager for the console
 
 ## Editors
 + [hexedit](http://rigaux.org/hexedit.html): View and edit files in hexadecimal or in ASCII
